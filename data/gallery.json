@@ -1,0 +1,74 @@
+[
+  {
+    "id": "seed-ov-1",
+    "title": "Professor Global School Campus View",
+    "category": "overview",
+    "imageUrl": "https://pgsbaprola.org/images/infra/activity&playarea-1.jpg",
+    "thumbnailUrl": "https://pgsbaprola.org/images/infra/activity&playarea-1.jpg",
+    "description": "Vibrant school campus with activity and play areas.",
+    "createdAt": "2026-07-20T10:00:00.000Z"
+  },
+  {
+    "id": "seed-ov-2",
+    "title": "Interactive Smart Classroom",
+    "category": "overview",
+    "imageUrl": "https://pgsbaprola.org/images/infra/activity&playarea-4.jpg",
+    "thumbnailUrl": "https://pgsbaprola.org/images/infra/activity&playarea-4.jpg",
+    "description": "Modern interactive learning spaces equipped with digital aids.",
+    "createdAt": "2026-07-19T10:00:00.000Z"
+  },
+  {
+    "id": "seed-ov-3",
+    "title": "Science Innovation Laboratory",
+    "category": "overview",
+    "imageUrl": "https://pgsbaprola.org/images/infra/science-lab.jpg",
+    "thumbnailUrl": "https://pgsbaprola.org/images/infra/science-lab.jpg",
+    "description": "Advanced laboratories for physics, chemistry, and biology research.",
+    "createdAt": "2026-07-18T10:00:00.000Z"
+  },
+  {
+    "id": "seed-ev-1",
+    "title": "Annual Cultural Festival & Celebrations",
+    "category": "events",
+    "imageUrl": "https://pgsbaprola.org/images/infra/activity&playarea-2.jpg",
+    "thumbnailUrl": "https://pgsbaprola.org/images/infra/activity&playarea-2.jpg",
+    "description": "Students showcasing music, performing arts, and festive joy.",
+    "createdAt": "2026-07-17T10:00:00.000Z"
+  },
+  {
+    "id": "seed-ev-2",
+    "title": "Interactive Play Area & Sports Zone",
+    "category": "events",
+    "imageUrl": "https://pgsbaprola.org/images/infra/activity&playarea-3.jpg",
+    "thumbnailUrl": "https://pgsbaprola.org/images/infra/activity&playarea-3.jpg",
+    "description": "Outdoor play arena and inter-house athletic events.",
+    "createdAt": "2026-07-16T10:00:00.000Z"
+  },
+  {
+    "id": "seed-ac-1",
+    "title": "Sports Wing & Athletic Honors",
+    "category": "achievements",
+    "imageUrl": "https://pgsbaprola.org/images/infra/activity&playarea-5.jpg",
+    "thumbnailUrl": "https://pgsbaprola.org/images/infra/activity&playarea-5.jpg",
+    "description": "Celebrating athletics and CBSE sports honors.",
+    "createdAt": "2026-07-15T10:00:00.000Z"
+  },
+  {
+    "id": "seed-st-1",
+    "title": "High-Tech Computer & Coding Lab",
+    "category": "pgs-stars",
+    "imageUrl": "https://pgsbaprola.org/images/infra/computer-lab.jpg",
+    "thumbnailUrl": "https://pgsbaprola.org/images/infra/computer-lab.jpg",
+    "description": "Young innovators mastering coding, robotics, and digital design.",
+    "createdAt": "2026-07-14T10:00:00.000Z"
+  },
+  {
+    "id": "seed-ac-2",
+    "title": "Dedicated Medical Care Room",
+    "category": "achievements",
+    "imageUrl": "https://pgsbaprola.org/images/infra/MedicalRoom.jpg",
+    "thumbnailUrl": "https://pgsbaprola.org/images/infra/MedicalRoom.jpg",
+    "description": "Comprehensive healthcare support and student wellness.",
+    "createdAt": "2026-07-13T10:00:00.000Z"
+  }
+]

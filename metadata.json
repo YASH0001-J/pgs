@@ -1,0 +1,6 @@
+{
+  "name": "Professor's Global School",
+  "description": "A premium, fully interactive academic portal for Professor's Global School, featuring a rich campus experience, a custom query management dashboard, and advanced modern motion layouts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
